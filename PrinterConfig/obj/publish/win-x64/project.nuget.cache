@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Pw/mbfb8SSDGrawGG2piiIL4D6ubKgWmLoIMIWLzeskEa0TZPfxNKerzj+Sa+qzAXResfruJdoZVy3hfAlsOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lamda2\\OneDrive - Sharp HealthCare\\Documents\\VisualStudioRepositories\\PrinterConfig\\PrinterConfig\\PrinterConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lamda2\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\lamda2\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.1\\microsoft.netcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\lamda2\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\lamda2\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
